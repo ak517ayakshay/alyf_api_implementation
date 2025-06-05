@@ -4,7 +4,7 @@
 
 This document outlines the architecture for the ALYF API Server, implementing a modern, scalable, and maintainable system following the Function-First Model-Service-Controller (MSC) architecture pattern. This design prioritizes business domain cohesion while ensuring proper separation of concerns, optimizing for both developer productivity and system performance.
 
-
+**All subcategories follow the MSC (Model-Service-Controllers) structure**
 ## Directory Structure
 
 ```
