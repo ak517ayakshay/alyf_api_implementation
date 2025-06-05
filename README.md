@@ -38,6 +38,8 @@ src/
 │   ├── logging/              # Logging functionality
 │   └── reports/              # Internal reports
 │
+├── common/                   # Common functionality kept as is
+│
 └── main.py                   # Main application entry point
 ```
 
